@@ -96,7 +96,7 @@ def spammer(client):
                 k += 1
                 total_sent += 1
 
-                delay_random = random.randint(25, 35)
+                delay_random = random.randint(35, 45)
                 print(f'⏱ Пауза {delay_random} сек перед следующим сообщением...', flush=True)
                 sleep(delay_random)
 
