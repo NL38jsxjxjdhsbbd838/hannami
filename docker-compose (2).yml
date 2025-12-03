@@ -11,6 +11,6 @@ services:
       API_ID: "1234567"                     # Замени на свой API_ID
       API_HASH: "abcdef1234567890abcdef1234567890"  # Замени на свой API_HASH
       BASE_DELAY: "30"
-      HAPPY_HASH: "6a1cf381b3a0f45531e62ce163d7f902"
-      HAPPY_ID: "10331109"
+      HAPPY_HASH: "20b8b564eabdd7348fef6dd2399dd919"
+      HAPPY_ID: "31205032"
       PORT: "8080"
