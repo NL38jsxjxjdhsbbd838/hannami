@@ -1,5 +1,5 @@
 # пкпикапкиквк.py — готовый для Railway (user session, без input)
-import os
+i1mport os
 import threading
 import http.server
 import socketserver
